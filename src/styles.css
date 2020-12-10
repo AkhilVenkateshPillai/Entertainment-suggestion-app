@@ -21,7 +21,7 @@ h1 {
   /* font-size: 50px; */
   background-image: linear-gradient(to right, #702fe9, #13eea8);
   background-size: 100%;
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
